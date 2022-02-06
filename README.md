@@ -3,7 +3,7 @@
 
 Taking attendance through camera by analyze the stored images and compare to camera images using face recognition and stored in Azure sql database service.
 
-Demo link -: 
+Demo link -: https://youtu.be/UBxmnViljZo
 
 
 # Installation
