@@ -1,5 +1,5 @@
 # Face_Recognition_Attendance
- Attendance using Azure Cognitive Services
+ Attendance using Azure Sql database Cognitive Services
 
 Taking attendance through camera by analyze the stored images and compare to camera images using face recognition and stored in Azure sql database service.
 
